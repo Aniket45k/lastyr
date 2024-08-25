@@ -68,7 +68,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://lastyr.netlify.app", "http://localhost:3000"
+    "https://frontyr.netlify.app", "http://localhost:3000"
 ]
 
 ROOT_URLCONF = 'config.urls'
